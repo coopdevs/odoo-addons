@@ -4,7 +4,7 @@
 <odoo>
 
     <!-- Plantillas de los planes contables - Asignación del resto de valores -->
-
+<!--
     <record id="account_chart_template_coop_pyme" model="account.chart.template">
         <field name="property_account_receivable_id" ref="l10n_es.pgc_4300_child"/>
         <field name="property_account_payable_id" ref="l10n_es.pgc_4100_child"/>
@@ -22,5 +22,5 @@
         <field name="income_currency_exchange_account_id" ref="l10n_es.pgc_768_child"/>
         <field name="expense_currency_exchange_account_id" ref="l10n_es.pgc_668_child"/>
     </record>
-
+-->
 </odoo>
